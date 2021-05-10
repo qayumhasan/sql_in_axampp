@@ -1,1 +1,1 @@
-## Download SQL SERVER MANAGEMENT Studeo
+## Download SQL SERVER MANAGEMENT Studio
